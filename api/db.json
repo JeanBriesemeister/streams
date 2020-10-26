@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My strean",
+      "description": "Description of the stream",
+      "id": 1
+    },
+    {
+      "title": "Second",
+      "description": "Second description",
+      "id": 2
+    },
+    {
+      "title": "Não é mais teste",
+      "description": "Essa descrição não é mais um teste@!",
+      "id": 5
+    }
+  ]
+}
